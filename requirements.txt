@@ -1,0 +1,2 @@
+requests
+pyTelegramBotAPI==4.5.1

@@ -4,7 +4,7 @@ Script to download videos from twitter integrated with telegram to used as a bot
 1) Clone the repository
 
 ```
-$ git clone https://github.com/hohohoesmad/twitter2mp4.git
+$ git clone https://github.com/Almadih/twitter-videos-downloader-bot.git
 ```
 
 2) Create telegram bot

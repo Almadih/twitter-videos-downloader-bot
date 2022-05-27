@@ -79,7 +79,7 @@ class Downloader:
 
 
 def send_welcome_message(chat_id):
-    tb.send_message(chat_id, "Welcome to Twitter Video Downloader Bot")
+    tb.send_message(chat_id, "Welcome to Twitter Video Downloader Bot, please send me a link to a Twitter video")
 
 
 def download_twitter_video(request):
